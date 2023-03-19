@@ -1,3 +1,3 @@
-basic.forever(function () {
-	
-})
+let vocabulary = [
+    "hello", "world", "makecode", "microbit"
+]
